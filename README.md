@@ -1,7 +1,7 @@
 # Bitcoin-Minute-Momentum-Study
 to investigate if bitcoin has momentum using minute OHLCV data
 ### Data Description
-Bitcoin data at 1-min intervals from bitstamp exchanges, from 2019-01-01 to 2019-06-30
+bitstampUSD_1-min_data_2019-01-01_to_2019-06-30.csv: Bitcoin data at 1-min intervals from bitstamp exchanges, from 2019-01-01 to 2019-06-30
 #### Field
 * Timestamp: Start time of time window (60s window), in utc format
 * Open: Open price at start time window
