@@ -15,3 +15,4 @@ Bitcoin data at 1-min intervals from bitstamp exchanges, from 2019-01-01 to 2019
 Raw Data Source (https://www.kaggle.com/mczielinski/bitcoin-historical-data/version/17#)
 * convert utc timestamp to utc format
 * slice the data to only include the period from 2019-01-01 to 2019-06-30 (due to GitHub 25 MB file size limit)
+```import```
